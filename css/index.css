@@ -84,8 +84,9 @@ h5{
 button {
   border-radius: 10px;
   background: #33FFBE;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 180px;
+  padding-right: 180px;
+  color: black;
 }
 
 .foto img {
@@ -113,4 +114,7 @@ button {
 .pie p {
   font-size:  10px;
   margin-top: 20px;
+}
+textarea {
+  padding-top: 30px;
 }
