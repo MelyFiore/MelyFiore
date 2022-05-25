@@ -50,6 +50,11 @@ h5{
   margin: 10px;
 }
 
+button {
+  font-size: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
 .menu li a {
    text-decoration: none;
    color: black;
@@ -81,7 +86,7 @@ h5{
   margin: 30px;
 }
 
-button {
+.boton {
   border-radius: 10px;
   background: #33FFBE;
   padding-left: 180px;
