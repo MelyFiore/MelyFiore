@@ -53,9 +53,12 @@ h5{
 .menu li a {
    text-decoration: none;
    color: black;
+   margin-top: 10px;
 }
 .redes li {
   display: inline-block;
+  background: #33FFBE;
+  margin-top: 10px;
 }
 
 .saludo {
@@ -65,14 +68,49 @@ h5{
 
 .descarga {
   border-radius: 50px;
-  background: lightgreen;
+  background: #33FFBE;
+  margin-top: 10px;
 }
 
 .caja {
-  color: lightgreen;
+  color: #33FFBE;
   background: black;
 }
 
 .formulario {
   margin: 30px;
+}
+
+button {
+  border-radius: 10px;
+  background: #33FFBE;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.foto img {
+  border-radius: 50%;
+}
+
+.h6 {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.medio {
+  padding: 70px;
+}
+
+.medio p {
+  font-size: 25px;
+  color: #313634;
+}
+
+.medio img {
+  height: 60px;
+}
+
+.pie p {
+  font-size:  10px;
+  margin-top: 20px;
 }
